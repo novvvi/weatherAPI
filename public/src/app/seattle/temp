@@ -1,0 +1,11 @@
+import { AanjoseComponent } from '
+import { BurbankComponent } from '
+import { DallasComponent } from '
+import { ChicagoComponent } from '
+import { WashingtonComponent } from '
+
+  { path: 'burbank' ,component: AanjoseComponent },
+  { path: 'dallas' ,component: BurbankComponent },
+  { path: 'washington' ,component: DallasComponent },
+  { path: 'chicago' ,component: ChicagoComponent },
+{ path: 'seattle' ,component: WashingtonComponent },
